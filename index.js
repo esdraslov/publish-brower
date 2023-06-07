@@ -28,3 +28,4 @@ iframe[seamless]{
     
 document.body.append(el[0]);
 $(el).updateWindow(); 
+console.log('ok')
